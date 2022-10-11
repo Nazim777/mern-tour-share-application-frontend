@@ -1,0 +1,4 @@
+
+.wrapper input:focus{
+    box-shadow: none;
+}

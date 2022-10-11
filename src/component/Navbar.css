@@ -1,0 +1,21 @@
+.header .fixed-top{
+    box-shadow: 0 0.125rem 0.675rem rgb(0 0 0 / 5%);
+}
+.header .navbar-nav .nav-item .nav-link{
+    color: rgb(2, 1, 1);
+    padding: 0.5rem 1rem;
+    text-align: center;
+}
+
+.header .navbar-nav .nav-item .nav-link:hover,
+.header .navbar-nav .nav-item .nav-link:active
+{
+    color: rgb(219, 24, 24);
+}
+.header.navbar-toggler-icon{
+    width: unset;
+    height: unset;
+}
+.header .navbar-toggler:focus{
+    box-shadow: none;
+}
